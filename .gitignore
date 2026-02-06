@@ -207,8 +207,12 @@ marimo/_lsp/
 __marimo__/
 
 cd_manager.py
+README.md
+*.json
 
 # Cosas extra
 .vs/
 bin/
 obj/
+explicacion_codigo.md
+
