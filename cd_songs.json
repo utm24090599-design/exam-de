@@ -1,0 +1,12 @@
+[
+    {
+        "name": "SmokeTestSong",
+        "artist": "SmokeArtist",
+        "duration": 4.333333333333333
+    },
+    {
+        "name": "1 hr",
+        "artist": "test",
+        "duration": 20.0
+    }
+]
